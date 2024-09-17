@@ -1,4 +1,4 @@
-# No Limit Texas Hold'em Poker Game - Version 2
+# No Limit Texas Hold'em Poker Application
 
 ## Overview
 
@@ -65,7 +65,3 @@ This project is the second version of a No Limit Texas Hold'em poker game, enhan
 - Run the console application to play No Limit Texas Hold'em.
 - Follow the on-screen prompts for betting, folding, or checking.
 - The game state and player actions are persisted to the database.
-
-## Contributors
-
-- **Joshua Susana** - Developer
